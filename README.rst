@@ -1,12 +1,12 @@
 =================
-websocket-client
+websocket-client for LEMOC
+https://cqp.cc/t/29722
 =================
 
-**Our repository has moved to https://github.com/websocket-client/websocket-client**
 
 websocket-client module  is WebSocket client for python. This provide the low level APIs for WebSocket. All APIs are the synchronous functions.
 
-websocket-client supports only hybi-13.
+websocket-client supports only LEMOC
 
 
 License
